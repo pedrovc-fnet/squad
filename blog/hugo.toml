@@ -1,7 +1,6 @@
 baseURL = "https://pedrovc-fnet.github.io/kitten-agent-blog"
 languageCode = "es"
 title = "Kitten Agent Blog"
-theme = ""
 
 [pagination]
   pagerSize = 10
